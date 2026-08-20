@@ -12,9 +12,8 @@ SOURCES TO USE, in priority order:
 7. Lookalike-model tools (e.g. AI Ark / Ocean / DiscoLike) — only if a
    seed list of best-fit existing customers has been provided; skip
    otherwise
-Skip e-commerce-specific, building-permit, local-SMB, and agency-
-directory sources (e.g. StoreLeads, Shovels.ai, D7LeadFinder,
-Clutch.co) — they don't match a B2B SaaS/product-team ICP.
+8. StoreLeads — Shopify / DTC /2C-brand company list (size filter required)
+9. D7LeadFinder — local 2C SMB (multi-location chains + single stores, location filter)
 
 VOLUME PER RUN: 20 companies/day (matches the daily send capacity)
 
